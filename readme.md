@@ -1,0 +1,1 @@
+A responsive landing page using only HTML, CSS and a litle jQuery that is modeled after the iTunes website
